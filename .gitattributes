@@ -8,3 +8,6 @@ file filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 Modify filter=lfs diff=lfs merge=lfs -text
 per filter=lfs diff=lfs merge=lfs -text
+based filter=lfs diff=lfs merge=lfs -text
+on filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
